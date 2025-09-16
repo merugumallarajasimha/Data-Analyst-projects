@@ -1,0 +1,16 @@
+foundation,company size,associated members:-linkedin
+recent funding,total funding,funding type:-churnbase
+basic pricing,advance pricing:- from their websites
+ratings:-capterra,G2
+
+Competitor Research - Churnbase,G2(Reviews)
+Growth Timeline     - Churnbase
+
+
+Botkeeper:-(5* stars 73%,4* stars 16%,1*star 3%)
+Vic.ai:-(5* stars 84%,4* stars 16%)
+Zeni:-  (5* stars 90%,4* stars 80%,1* star 1%)
+Bench:- (5* stars 72%,$* stars 15%,1* star 9%)
+Xero :- (5* stars 69%,4* stars 20%,1* star 4%)
+
+Core feature,marketing and product strategies - websites About us page.
